@@ -1,0 +1,78 @@
+..generic:
+  git2rdata: 0.2.1
+  optimize: yes
+  NA string: NA
+  sorting:
+  - yy
+  - mm
+  - dd
+  hash: e3c5b756a6eddb3bf024eb79da7545efba706ad2
+  data_hash: 4dd22d5b0153d7a885de3740c2c7386a9fa94575
+yy:
+  class: numeric
+mm:
+  class: character
+dd:
+  class: character
+CA011B097:
+  class: numeric
+CA040B077:
+  class: numeric
+CA054B109:
+  class: numeric
+CA069B312:
+  class: numeric
+CA073B050:
+  class: numeric
+CA073B171:
+  class: numeric
+CA082A008:
+  class: numeric
+CA092B140:
+  class: numeric
+CA102B148:
+  class: numeric
+CA104B085:
+  class: numeric
+CA105B047:
+  class: numeric
+NU002B035:
+  class: numeric
+NU016B126:
+  class: numeric
+NU034B095:
+  class: numeric
+NU048B065:
+  class: numeric
+NU060B054:
+  class: numeric
+NU063B172:
+  class: numeric
+NU067B101:
+  class: numeric
+NU073B090:
+  class: numeric
+NU076B180:
+  class: numeric
+NU090B049:
+  class: numeric
+OR025B037:
+  class: numeric
+OR032E006:
+  class: numeric
+SS022B165:
+  class: numeric
+SS028B107:
+  class: numeric
+SS028B236:
+  class: numeric
+SS038B111:
+  class: numeric
+SS059B061:
+  class: numeric
+SS060B237:
+  class: numeric
+SS068B230:
+  class: numeric
+SS077B168:
+  class: numeric

@@ -1,0 +1,200 @@
+..generic:
+  git2rdata: 0.2.1
+  optimize: yes
+  NA string: NA
+  sorting:
+  - yy
+  - mm
+  - dd
+  hash: 4f27cd62ef4b089228318408d80c89df097b9697
+  data_hash: 5070112474bd2ce577f77fb606230d228f00131f
+yy:
+  class: numeric
+mm:
+  class: character
+dd:
+  class: character
+CA011B097:
+  class: numeric
+CA013B093:
+  class: numeric
+CA026B079:
+  class: numeric
+CA029B017:
+  class: numeric
+CA030B175:
+  class: numeric
+CA034B191:
+  class: numeric
+CA038B170:
+  class: numeric
+CA039B232:
+  class: numeric
+CA040B077:
+  class: numeric
+CA045B021:
+  class: numeric
+CA051B276:
+  class: numeric
+CA054B109:
+  class: numeric
+CA061B225:
+  class: numeric
+CA067B113:
+  class: numeric
+CA069B312:
+  class: numeric
+CA073B050:
+  class: numeric
+CA073B171:
+  class: numeric
+CA078B229:
+  class: numeric
+CA082A008:
+  class: numeric
+CA082B039:
+  class: numeric
+CA084B044:
+  class: numeric
+CA085B210:
+  class: numeric
+CA086B062:
+  class: numeric
+CA088B119:
+  class: numeric
+CA092B140:
+  class: numeric
+CA095B182:
+  class: numeric
+CA102B148:
+  class: numeric
+CA104B085:
+  class: numeric
+CA105B047:
+  class: numeric
+NU002B035:
+  class: numeric
+NU004B216:
+  class: numeric
+NU015B068:
+  class: numeric
+NU016B126:
+  class: numeric
+NU022B201:
+  class: numeric
+NU034B095:
+  class: numeric
+NU042B031:
+  class: numeric
+NU048B065:
+  class: numeric
+NU058B202:
+  class: numeric
+NU060B054:
+  class: numeric
+NU063B023:
+  class: numeric
+NU063B025:
+  class: numeric
+NU063B172:
+  class: numeric
+NU065B051:
+  class: numeric
+NU067B101:
+  class: numeric
+NU073B090:
+  class: numeric
+NU076B127:
+  class: numeric
+NU076B180:
+  class: numeric
+NU077B067:
+  class: numeric
+NU078B020:
+  class: numeric
+NU079B194:
+  class: numeric
+NU083B009:
+  class: numeric
+NU090B049:
+  class: numeric
+NU095B211:
+  class: numeric
+OR004B207:
+  class: numeric
+OR009B001:
+  class: numeric
+OR025B037:
+  class: numeric
+OR030B156:
+  class: numeric
+OR032E006:
+  class: numeric
+OR038B181:
+  class: numeric
+OR039B174:
+  class: numeric
+OR042B200:
+  class: numeric
+OR073B221:
+  class: numeric
+OR077B103:
+  class: numeric
+SS001B271:
+  class: numeric
+SS003B139:
+  class: numeric
+SS005B003:
+  class: numeric
+SS012B002:
+  class: numeric
+SS013B169:
+  class: numeric
+SS013B224:
+  class: numeric
+SS014B110:
+  class: numeric
+SS015B041:
+  class: numeric
+SS018B022:
+  class: numeric
+SS022B165:
+  class: numeric
+SS022B187:
+  class: numeric
+SS025B151:
+  class: numeric
+SS028B107:
+  class: numeric
+SS028B236:
+  class: numeric
+SS038B038:
+  class: numeric
+SS038B111:
+  class: numeric
+SS042B045:
+  class: numeric
+SS051B087:
+  class: numeric
+SS052B048:
+  class: numeric
+SS054B034:
+  class: numeric
+SS059A001:
+  class: numeric
+SS059B061:
+  class: numeric
+SS059B159:
+  class: numeric
+SS060B237:
+  class: numeric
+SS068B230:
+  class: numeric
+SS073B028:
+  class: numeric
+SS077B168:
+  class: numeric
+SS086B155:
+  class: numeric
+SS053B458:
+  class: numeric

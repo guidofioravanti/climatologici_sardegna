@@ -1,0 +1,212 @@
+..generic:
+  git2rdata: 0.2.1
+  optimize: yes
+  NA string: NA
+  sorting:
+  - yy
+  - mm
+  - dd
+  hash: d96e40c744d433152478a340fdf59c4f11a4abe0
+  data_hash: 12dcebfa72d5a4b2b1b220718f392ff3682206d2
+yy:
+  class: numeric
+mm:
+  class: character
+dd:
+  class: character
+Sardegna_CA011B097:
+  class: numeric
+Sardegna_CA013B093:
+  class: numeric
+Sardegna_CA026B079:
+  class: numeric
+Sardegna_CA029B017:
+  class: numeric
+Sardegna_CA030B175:
+  class: numeric
+Sardegna_CA034B191:
+  class: numeric
+Sardegna_CA038B170:
+  class: numeric
+Sardegna_CA039B232:
+  class: numeric
+Sardegna_CA045B021:
+  class: numeric
+Sardegna_CA047B226:
+  class: numeric
+Sardegna_CA051B276:
+  class: numeric
+Sardegna_CA054B109:
+  class: numeric
+Sardegna_CA061B225:
+  class: numeric
+Sardegna_CA067B113:
+  class: numeric
+Sardegna_CA069B312:
+  class: numeric
+Sardegna_CA073B050:
+  class: numeric
+Sardegna_CA073B171:
+  class: numeric
+Sardegna_CA078B229:
+  class: numeric
+Sardegna_CA082A008:
+  class: numeric
+Sardegna_CA082B039:
+  class: numeric
+Sardegna_CA084B044:
+  class: numeric
+Sardegna_CA085B210:
+  class: numeric
+Sardegna_CA086B062:
+  class: numeric
+Sardegna_CA088B119:
+  class: numeric
+Sardegna_CA092B140:
+  class: numeric
+Sardegna_CA095B182:
+  class: numeric
+Sardegna_CA102B148:
+  class: numeric
+Sardegna_CA103B212:
+  class: numeric
+Sardegna_CA104B056:
+  class: numeric
+Sardegna_CA104B085:
+  class: numeric
+Sardegna_CA105B047:
+  class: numeric
+Sardegna_NU002B035:
+  class: numeric
+Sardegna_NU004B216:
+  class: numeric
+Sardegna_NU015B068:
+  class: numeric
+Sardegna_NU016B126:
+  class: numeric
+Sardegna_NU022B201:
+  class: numeric
+Sardegna_NU034B095:
+  class: numeric
+Sardegna_NU042B031:
+  class: numeric
+Sardegna_NU043B096:
+  class: numeric
+Sardegna_NU045B433:
+  class: numeric
+Sardegna_NU048B065:
+  class: numeric
+Sardegna_NU058B202:
+  class: numeric
+Sardegna_NU060B054:
+  class: numeric
+Sardegna_NU063B023:
+  class: numeric
+Sardegna_NU063B025:
+  class: numeric
+Sardegna_NU063B172:
+  class: numeric
+Sardegna_NU063B227:
+  class: numeric
+Sardegna_NU065B051:
+  class: numeric
+Sardegna_NU067B101:
+  class: numeric
+Sardegna_NU073B090:
+  class: numeric
+Sardegna_NU076B127:
+  class: numeric
+Sardegna_NU076B180:
+  class: numeric
+Sardegna_NU077B067:
+  class: numeric
+Sardegna_NU078B020:
+  class: numeric
+Sardegna_NU079B194:
+  class: numeric
+Sardegna_NU083B009:
+  class: numeric
+Sardegna_NU085B070:
+  class: numeric
+Sardegna_NU090B049:
+  class: numeric
+Sardegna_NU095B211:
+  class: numeric
+Sardegna_OR004B207:
+  class: numeric
+Sardegna_OR009B001:
+  class: numeric
+Sardegna_OR025B037:
+  class: numeric
+Sardegna_OR030B156:
+  class: numeric
+Sardegna_OR032E006:
+  class: numeric
+Sardegna_OR038B181:
+  class: numeric
+Sardegna_OR039B174:
+  class: numeric
+Sardegna_OR042B200:
+  class: numeric
+Sardegna_OR073B221:
+  class: numeric
+Sardegna_OR077B103:
+  class: numeric
+Sardegna_SS001B271:
+  class: numeric
+Sardegna_SS002B078:
+  class: numeric
+Sardegna_SS003B139:
+  class: numeric
+Sardegna_SS005B003:
+  class: numeric
+Sardegna_SS012B002:
+  class: numeric
+Sardegna_SS013B169:
+  class: numeric
+Sardegna_SS013B224:
+  class: numeric
+Sardegna_SS014B110:
+  class: numeric
+Sardegna_SS015B041:
+  class: numeric
+Sardegna_SS018B022:
+  class: numeric
+Sardegna_SS022B165:
+  class: numeric
+Sardegna_SS022B187:
+  class: numeric
+Sardegna_SS025B151:
+  class: numeric
+Sardegna_SS028B107:
+  class: numeric
+Sardegna_SS028B236:
+  class: numeric
+Sardegna_SS038B038:
+  class: numeric
+Sardegna_SS038B111:
+  class: numeric
+Sardegna_SS042B045:
+  class: numeric
+Sardegna_SS051B087:
+  class: numeric
+Sardegna_SS052B048:
+  class: numeric
+Sardegna_SS053B458:
+  class: numeric
+Sardegna_SS054B034:
+  class: numeric
+Sardegna_SS059B061:
+  class: numeric
+Sardegna_SS059B159:
+  class: numeric
+Sardegna_SS060B237:
+  class: numeric
+Sardegna_SS068B230:
+  class: numeric
+Sardegna_SS073B028:
+  class: numeric
+Sardegna_SS077B168:
+  class: numeric
+Sardegna_SS086B155:
+  class: numeric
