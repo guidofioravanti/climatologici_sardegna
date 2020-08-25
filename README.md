@@ -1,4 +1,24 @@
-# climatologici_sardegna
-## Risultati valori climatologici della Sardegna
+# Climatologici Sardegna
 
-Risultati del processo di omogeneizzazione delle serie di temperatura per il periodo 1981-2010 e calcolo dei valori climatologici annuali e mensili
+Creazione di una climatologia per il periodo 1981-2010 per la regione Sardegna.In queste pagine vengono riportati i risultati relativi alle serie di temperatura e di precipitazione.
+
+
+## Serie giornaliere di temperatura
+
+Le serie sono state sottoposte ai controlli di qualita’ di autoconsistenza e ai controlli spaziali (corroboration e regression test). Perquanto riguarda la ricerca di valori ripetuti all’interno della serie, si e’ abbassata la soglia di tolleranza a 10 (?? ricontrollare nel codice) valori. Inoltre, diverse serie identificate da Michele, sono state sottoposte ad un programma ad-hoc di invalidazione di valori ripetuti.
+
+Le serie di temperatura giornaliere sono state omogeneizzate usando il pacchetto Climatol.
+
+Per l’omogeneizzazione sono state utilizzate anche serie brevi, lunghe almeno dieci anni. Per le serie piu’ lunghe di dieci anni si e’ ammessa la presenza di un buco di 3 anni di dati. Questo per avere un set di serie abbastanza robuste (in termini di continuita’ e completezza) da utilizzare per l’omogeneizzazione. A livello giornaliero si e’ utilizzata la regola del 5/10 del WMO (ovvero sono stati considerati validi i mesi con 10 giorni mancanti e con al massimo un blocco continuo di 5 NA).
+
+### Temperatura massima (Tmax)
+
+Risultati omogeneizzazione
+
+### Temperatura minima (Tmin)
+
+Risultati omogeneizzazione
+
+## Serie giornaliere di precipitazione
+
+Le serie sono state sottoposte ai controlli di qualita’ di autoconsistenza. Non sono stati invece applicati i controlli spaziali che, nel caso della precipitazione, sono piu’ difficili da automatizzare e i cui risultati richiederebbero un controllo manuale.
