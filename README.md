@@ -6,6 +6,10 @@ Creazione di una climatologia (temperatura e precipitazione) per il periodo 1981
 
 Le regole del WMO sono [qui](./md/WMO.md) sintetizzate
 
+## Considerazioni sull'omogeneita' delle serie
+
+Il volume del WMO discute il perche' le serie debbono essere omogenee, si veda [qui](./md/homogeneity.md)
+
 ## Serie giornaliere di temperatura
 
 Le serie sono state sottoposte ai controlli di qualita’:
