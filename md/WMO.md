@@ -24,7 +24,8 @@ quanto i valori mensili da un anno all'altro sono scarsamente autocorrelati.
 
 Si cita qui si seguito il testo del WMO:
 
+```
 It is therefore recommended that normals or averages be calculated:
 
 – For parameters other than extreme parameters: where there are valid monthly values (as defined in section 4.4.1 above) in at least 80% of the years in the averaging period (__with no additional consecutive-years criterion__);
-
+```
