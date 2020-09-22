@@ -3,6 +3,7 @@
 Qui viene sintetizzato quanto riportato nel "*WMO Guidelines on the Calculation of Climate Normals*", sezione "*Data Completeness".
 
 | Valori mensili | --- | --- | 
+| --- | --- | --- |
 | --- | Max numero giorni mancanti | Max numero giorni consecutivi mancanti |
 | Temperatura (e parametri calcolati come medie)* | 10 | 4 |
 | Precipitazione (e parametri calcolati come somme)^ | 0 | 0 |
