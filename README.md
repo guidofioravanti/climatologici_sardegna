@@ -4,7 +4,7 @@ Creazione di una climatologia (temperatura e precipitazione) per il periodo 1981
 
 ## Regole del WMO per il calcolo dei valori climatologici
 
-Le regole del WMO sono [qui](./WMO.md) sintetizzate
+Le regole del WMO sono [qui](./md/WMO.md) sintetizzate
 
 ## Serie giornaliere di temperatura
 
