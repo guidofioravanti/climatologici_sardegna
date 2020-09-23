@@ -36,3 +36,11 @@ Risultati omogeneizzazione
 ## Serie giornaliere di precipitazione
 
 Le serie sono state sottoposte ai controlli di qualita’ di autoconsistenza. Non sono stati invece applicati i controlli spaziali che, nel caso della precipitazione, sono piu’ difficili da automatizzare e i cui risultati richiederebbero un controllo manuale.
+
+### Bibliografia
+
+Documenti utili per il calcolo dei valori normali:
+
+- WMO Guidelines on the Calculation of Climate Normals 
+- The Definition of the Standard WMO Climate Normal: The Key to Deriving Alternative Climate Normals. 2011, Arguez and Vose, Bulletin of the American Meteorological Society 92
+- [Canadian Climate Normals 1981-2010](./https://climate.weather.gc.ca/doc/Canadian_Climate_Normals_1981_2010_Calculation_Information.pdf) 
