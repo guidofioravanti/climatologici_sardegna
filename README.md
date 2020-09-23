@@ -22,12 +22,14 @@ sum parameters (not extreme parameters or higher-order statistical properties su
 of data provided a predictive skill similar to that from a standard 30-year period. 
 ```
 
-## Serie giornaliere di temperatura
+# Serie giornaliere di temperatura (Tmax e Tmin)
 
 Le serie sono state sottoposte ai controlli di qualita’:
 
 * di autoconsistenza 
 * controlli spaziali (corroboration e regression test) 
+
+I controlli di qualita' sono descritti in [Fioravanti et al.](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/joc.6177) paper.
 
 Per quanto riguarda la ricerca di valori ripetuti all’interno della serie, si e’ abbassata la soglia di tolleranza da 20 a 10 valori (?? ricontrollare nel codice). Diverse serie di temperatura massima e minima identificate da Michele sono state invalidate per la presenza di valori ripetuti che sfuggono ai controlli di qualita'.
 
@@ -48,6 +50,17 @@ Risultati omogeneizzazione
 ## Serie giornaliere di precipitazione
 
 Le serie sono state sottoposte ai controlli di qualita’ di autoconsistenza. Non sono stati invece applicati i controlli spaziali che, nel caso della precipitazione, sono piu’ difficili da automatizzare e i cui risultati richiederebbero un controllo manuale.
+
+# Cose da fare
+
+Lista di cose da fare:
+
+- Ricalcolare i valori climatologici normali della temperatura (il criterio del WMO 10/5 richiede al piu' 4 giorni NA continui, 
+mentre quelli adesso calcolati assumono al piu' 5 giorni NA continui).
+- Calcolare i valori climatologici della temperatura media
+- Definire il numero di anni mancanti nel trentennio per calcolare dei valori di riferimenti NON standard (Michele <--)
+- Trovare lavori che illustino i valori climatologici degli indici ETCCDI (Michele e Guido <---)
+- Dati di precipitazione ?
 
 ### Bibliografia
 
