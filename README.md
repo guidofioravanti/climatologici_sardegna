@@ -25,8 +25,7 @@ of data provided a predictive skill similar to that from a standard 30-year peri
 Ad esempio:
 - Il Canada pubblica on-line valori normali ammettendo anche 15 anni di dati mancanti
 - I valori 1981-2010 degli U.S. richiedono che per ogni mese dell'anno ci siano almeno 10 valori disponibili 
-(ovvero ammette fino a 20 anni di dati mancanti). Si vedia [questo](https://journals.ametsoc.org/bams/article/93/11/1687/60140/NOAA-s-1981-2010-U-S-Climate-Normals-An-Overview) articolo, in cui si parla anche di valori normali per
-gli eventi estremi.
+(ovvero ammette fino a 20 anni di dati mancanti). Si veda [questo](https://journals.ametsoc.org/bams/article/93/11/1687/60140/NOAA-s-1981-2010-U-S-Climate-Normals-An-Overview) articolo, in cui si parla anche di valori normali per gli eventi estremi.
 
 # Serie giornaliere di temperatura (Tmax e Tmin)
 
