@@ -62,12 +62,16 @@ mentre quelli adesso calcolati assumono al piu' 5 giorni NA continui).
 - Trovare lavori che illustino i valori climatologici degli indici ETCCDI (Michele e Guido <---)
 - Dati di precipitazione ?
 
-### Bibliografia
+# Bibliografia
 
-Documenti utili per il calcolo dei valori normali:
+### Documenti utili per il calcolo dei valori normali:
 
 - [WMO Guidelines on the Calculation of Climate Normals](https://library.wmo.int/doc_num.php?explnum_id=4166)
 - [THE ROLE OF CLIMATOLOGICAL NORMALS IN A CHANGING CLIMATE](https://library.wmo.int/doc_num.php?explnum_id=4546)
 - The Definition of the Standard WMO Climate Normal: The Key to Deriving Alternative Climate Normals. 2011, Arguez and Vose, Bulletin of the American Meteorological Society 92
 - [Canadian Climate Normals 1981-2010](https://climate.weather.gc.ca/doc/Canadian_Climate_Normals_1981_2010_Calculation_Information.pdf) 
 - [CRAN web page](https://cran.r-project.org/web/packages/weathercan/vignettes/glossary_normals.html) 
+
+### Regola del 5/3 e 10/5
+
+- [Accounting for missing data in monthly temperature series: Testing rule-of-thumb omission of months with missing values](https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/joc.5801)
