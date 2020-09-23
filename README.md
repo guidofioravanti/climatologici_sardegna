@@ -22,6 +22,12 @@ sum parameters (not extreme parameters or higher-order statistical properties su
 of data provided a predictive skill similar to that from a standard 30-year period. 
 ```
 
+Ad esempio:
+- Il Canada pubblica on-line valori normali ammettendo anche 15 anni di dati mancanti
+- I valori 1981-2010 degli U.S. richiedono che per ogni mese dell'anno ci siano almeno 10 valori disponibili 
+(ovvero ammette fino a 20 anni di dati mancanti). Si vedia [questo](https://journals.ametsoc.org/bams/article/93/11/1687/60140/NOAA-s-1981-2010-U-S-Climate-Normals-An-Overview) articolo, in cui si parla anche di valori normali per
+gli eventi estremi.
+
 # Serie giornaliere di temperatura (Tmax e Tmin)
 
 Le serie sono state sottoposte ai controlli di qualita’:
@@ -69,6 +75,7 @@ mentre quelli adesso calcolati assumono al piu' 5 giorni NA continui).
 - [WMO Guidelines on the Calculation of Climate Normals](https://library.wmo.int/doc_num.php?explnum_id=4166)
 - [THE ROLE OF CLIMATOLOGICAL NORMALS IN A CHANGING CLIMATE](https://library.wmo.int/doc_num.php?explnum_id=4546)
 - The Definition of the Standard WMO Climate Normal: The Key to Deriving Alternative Climate Normals. 2011, Arguez and Vose, Bulletin of the American Meteorological Society 92
+- [U.S. Climate Normals](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/climate-normals/1981-2010-normals-data)
 - [Canadian Climate Normals 1981-2010](https://climate.weather.gc.ca/doc/Canadian_Climate_Normals_1981_2010_Calculation_Information.pdf) 
 - [CRAN web page](https://cran.r-project.org/web/packages/weathercan/vignettes/glossary_normals.html) 
 
