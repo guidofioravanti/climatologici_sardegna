@@ -10,6 +10,26 @@ Le regole del WMO sono [qui](./md/WMO.md) sintetizzate
 
 Il volume del WMO discute il perche' le serie debbono essere omogenee, si veda [qui](./md/homogeneity.md)
 
+## Numero di anni necessari per il calcolo di valori normali
+
+La sezione **Use of shorter averaging periods** del WMO Guidelines on the Calculation of Climate Normals (pagina 17) riporta:
+
+```
+In The Role of Climatological Normals in a Changing Climate (WMO, 2007), it was found that, for most mean and sum parameters 
+(not extreme parameters or higher-order statistical properties such as quantiles), 10–12 years of data provided a predictive 
+skill similar to that from a standard 30-year period. 
+```
+
+Sempre nella stessa pagina:
+
+```
+While such short periods cannot be considered to be climatological standard normals or reference normals, 
+they are still useful to many users, and in many cases, there will be benefits to calculating such averages 
+operationally. Readers are referred to section 7.2 of The Role of Climatological Normals in a Changing Climate 
+(WMO, 2007) for further details and potential methods
+```
+
+
 ## Serie giornaliere di temperatura
 
 Le serie sono state sottoposte ai controlli di qualita’:
