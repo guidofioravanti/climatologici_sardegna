@@ -1,4 +1,4 @@
-# Climatologici Sardegna
+# Calcolo dei Valori Climatologici, Sardegna
 
 Creazione di una climatologia (temperatura e precipitazione) per il periodo 1981-2010 per la regione Sardegna.
 
@@ -12,23 +12,15 @@ Il volume del WMO discute il perche' le serie debbono essere omogenee, si veda [
 
 ## Numero di anni necessari per il calcolo di valori normali
 
-La sezione **Use of shorter averaging periods** del WMO Guidelines on the Calculation of Climate Normals (pagina 17) riporta:
+La sezione **Use of shorter averaging periods** del WMO Guidelines on the Calculation of Climate Normals (pagina 17) 
+discute la possibilita' di calcolare dei valori di riferimenti per periodi inferiori al trentennio. Questi valori non 
+debbono essere intesi come valori climatologi standard ma comunque possono essere utili agli utilizzatori finali. 
 
 ```
 In The Role of Climatological Normals in a Changing Climate (WMO, 2007), it was found that, for most mean and 
 sum parameters (not extreme parameters or higher-order statistical properties such as quantiles), 10–12 years 
 of data provided a predictive skill similar to that from a standard 30-year period. 
 ```
-
-Sempre nella stessa pagina:
-
-```
-While such short periods cannot be considered to be climatological standard normals or reference normals, 
-they are still useful to many users, and in many cases, there will be benefits to calculating such averages 
-operationally. Readers are referred to section 7.2 of The Role of Climatological Normals in a Changing Climate 
-(WMO, 2007) for further details and potential methods
-```
-
 
 ## Serie giornaliere di temperatura
 
