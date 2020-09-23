@@ -15,9 +15,9 @@ Il volume del WMO discute il perche' le serie debbono essere omogenee, si veda [
 La sezione **Use of shorter averaging periods** del WMO Guidelines on the Calculation of Climate Normals (pagina 17) riporta:
 
 ```
-In The Role of Climatological Normals in a Changing Climate (WMO, 2007), it was found that, for most mean and sum parameters 
-(not extreme parameters or higher-order statistical properties such as quantiles), 10–12 years of data provided a predictive 
-skill similar to that from a standard 30-year period. 
+In The Role of Climatological Normals in a Changing Climate (WMO, 2007), it was found that, for most mean and 
+sum parameters (not extreme parameters or higher-order statistical properties such as quantiles), 10–12 years 
+of data provided a predictive skill similar to that from a standard 30-year period. 
 ```
 
 Sempre nella stessa pagina:
