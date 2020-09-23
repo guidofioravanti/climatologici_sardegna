@@ -41,7 +41,8 @@ Le serie sono state sottoposte ai controlli di qualita’ di autoconsistenza. No
 
 Documenti utili per il calcolo dei valori normali:
 
-- WMO Guidelines on the Calculation of Climate Normals 
+- [WMO Guidelines on the Calculation of Climate Normals](https://library.wmo.int/doc_num.php?explnum_id=4166)
+- [THE ROLE OF CLIMATOLOGICAL NORMALS IN A CHANGING CLIMATE](https://library.wmo.int/doc_num.php?explnum_id=4546)
 - The Definition of the Standard WMO Climate Normal: The Key to Deriving Alternative Climate Normals. 2011, Arguez and Vose, Bulletin of the American Meteorological Society 92
 - [Canadian Climate Normals 1981-2010](https://climate.weather.gc.ca/doc/Canadian_Climate_Normals_1981_2010_Calculation_Information.pdf) 
 - [CRAN web page](https://cran.r-project.org/web/packages/weathercan/vignettes/glossary_normals.html) 
