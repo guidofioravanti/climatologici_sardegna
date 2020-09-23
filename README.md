@@ -34,7 +34,8 @@ Le serie sono state sottoposte ai controlli di qualita’:
 * di autoconsistenza 
 * controlli spaziali (corroboration e regression test) 
 
-I controlli di qualita' sono descritti in [Fioravanti et al.](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/joc.6177) paper.
+I controlli di qualita' sono descritti in [Fioravanti et al.](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/joc.6177), un'implementazione dei controlli 
+di Durre et al. 2010 (Comprehensive Automated Quality Assurance of Daily Surface Observations).
 
 Per quanto riguarda la ricerca di valori ripetuti all’interno della serie, si e’ abbassata la soglia di tolleranza da 20 a 10 valori (?? ricontrollare nel codice). Diverse serie di temperatura massima e minima identificate da Michele sono state invalidate per la presenza di valori ripetuti che sfuggono ai controlli di qualita'.
 
