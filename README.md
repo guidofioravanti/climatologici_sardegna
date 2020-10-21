@@ -57,6 +57,14 @@ Risultati omogeneizzazione
 
 Le serie sono state sottoposte ai controlli di qualita’ di autoconsistenza. Non sono stati invece applicati i controlli spaziali che, nel caso della precipitazione, sono piu’ difficili da automatizzare e i cui risultati richiederebbero un controllo manuale.
 
+Numero di serie di precipitazione: **370**
+
+| Numero anni mancanti trentennio | Numero stazioni con valore climatologico annuale | Useful | Doubtful | Suspect | Numero stazioni potenziali per calcolare il valore climatologico | Numero serie per test omogeneità, serie Wet Days | 
+| --- | --- | --- | --- |--- | --- | --- |
+| 6 | 169 | 160 | 9 | 13 | 196 | 182 |
+| 10 | 169 | 160 | 9 | 13 | 225 | 182 | 
+| 15 | 169 | 160 | 9 | 13 | 246 | 182 |
+
 # Cose da fare
 
 Lista di cose da fare:
