@@ -65,9 +65,9 @@ Lista di cose da fare:
 mentre quelli adesso calcolati assumono al piu' 5 giorni NA continui). **FATTO e INVIATO RISULTATI A MICHELE (23 settembre)**
 - Calcolare i valori climatologici della temperatura media **FATTO e INVIATO RISULTATI A MICHELE (25 settembre)**
 - Calcolare i valori climatologici della diurnal temperature range (DTR) **FATTO e INVIATO RISULTATI A MICHELE (25 settembre)**
-- Definire il numero di anni mancanti nel trentennio per calcolare dei valori di riferimenti NON standard (Michele <--)
+- Definire il numero di anni mancanti nel trentennio per calcolare dei valori di riferimenti NON standard **FATTO: 10 e 15 anni**
 - Indici ESTREMI: calcolati. Calcolarne il valore climatologico.
-- Dati di precipitazione ?
+- Dati di precipitazione **Calcolati come per la precipitazione per tre valori di dati mancanti: 6, 10 e 15***
 
 # Bibliografia
 
