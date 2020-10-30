@@ -1,10 +1,6 @@
-# Calcolo dei Valori Climatologici, Sardegna
-
-Creazione di una climatologia (temperatura e precipitazione) per il periodo 1981-2010 per la regione Sardegna.
-
 ## Regole del WMO per il calcolo dei valori climatologici
 
-Le regole del WMO sono [qui](./md/WMO.md) sintetizzate
+Le regole del WMO sono sintetizzate in [questa](./md/WMO.md) pagina.
 
 ## Considerazioni sull'omogeneita' delle serie
 
