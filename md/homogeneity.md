@@ -1,7 +1,5 @@
 ### Omogeneita' delle serie
 
-Quanto segue e' una rielaborazione del testo *WMO Guidelines on the Calculation of Climate Normals* (edizione 2017, pagina 12).
-
 Scopo dei valori normali:
 - as an indicator of the conditions most likely to be experienced at a given location under the current climate
 - as a benchmark against which climatic conditions at a given location (or in a given region) in a given time period can be compared
