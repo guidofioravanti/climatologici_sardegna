@@ -1,10 +1,12 @@
+Il testo di riferimento per il calcolo dei normali è *WMO Guidelines on the Calculation of Climate Normals (edizione 2017)*.
+
 ## Regole del WMO per il calcolo dei valori climatologici
 
 Le regole del WMO sono sintetizzate in [questa](./md/WMO.md) pagina.
 
 ## Considerazioni sull'omogeneita' delle serie
 
-Il volume del WMO discute il perche' le serie debbono essere omogenee, si veda [qui](./md/homogeneity.md)
+Il volume del WMO discute perche' le serie debbono essere omogenee, si veda [qui](./md/homogeneity.md) una rielaborazione e sintesi del testo ( pagina 12).
 
 ## Numero di anni necessari per il calcolo di valori normali
 
