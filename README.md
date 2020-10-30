@@ -53,6 +53,11 @@ Risultati omogeneizzazione
 
 Risultati omogeneizzazione
 
+### Valori climatologici
+
+Esempi di valori climatologici estremi:
+  - [Svizzera](https://www.meteoswiss.admin.ch/home/climate/swiss-climate-in-detail/climate-normals/normal-values-per-measured-parameter.html)
+
 ## Serie giornaliere di precipitazione
 
 Le serie sono state sottoposte ai controlli di qualita’ di autoconsistenza. Non sono stati invece applicati i controlli spaziali che, nel caso della precipitazione, sono piu’ difficili da automatizzare e i cui risultati richiederebbero un controllo manuale.
